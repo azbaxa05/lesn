@@ -1,0 +1,43 @@
+ul{
+    list-style: none;
+}
+
+.article{
+    text-align: center;
+
+}
+.desease{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+
+.diseade-header{
+    width: 251px;
+}
+
+.article-img{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.herbal{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+.herbal-header{
+    width: 265px;
+}
+.natural{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+.natural-header{
+    width: 245px;
+}
+
+.read-more-box{
+    display: inline-block;
+    vertical-align: top;
+}
